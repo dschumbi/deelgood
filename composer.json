@@ -12,7 +12,8 @@
         "laravelcollective/html": "5.8.1",
         "toin0u/geocoder-laravel": "^4.0",
         "twbs/bootstrap": "4.0.0-beta.2",
-        "doctrine/dbal": "^2.5"
+        "doctrine/dbal": "^2.5",
+        "illuminate/view": "5.8.9"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
